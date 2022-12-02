@@ -1,5 +1,5 @@
 [package]
-name = "riced-cli"
+name = "riced"
 version = "0.1.0"
 edition = "2021"
 
